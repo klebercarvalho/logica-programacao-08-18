@@ -4,7 +4,12 @@ Curso de Programação Agosto de 2018
 ## Segunda 27/Agosto/2018
 
   - Y: Nada
-  - T: Linguagens de Programação, Front-end, Back-end, MVC, Frameworks Back-end (Java/Spring, Python/Django, Node/Express, PHP/Laravel, Ruby/Rails, .NET/ASP), Frameworks Front-End(Vue.js, React, Angular), AJAX, SPA, IDE, Editor de Texto, Visual Code, Git, Github
+  - T: 
+    - Linguagens de Programação: C, C++, Javascript, Apple(Object C e Swift), Java, .NET, Python, Ruby, PHP, Node.js
+    - Front-end (Vue.js, React, Angular), AJAX, SPA,
+    - Back-end, MVC, Frameworks Back-end (Java/Spring, Python/Django, Node/Express, PHP/Laravel, Ruby/Rails, .NET/ASP)
+    - IDE (Eclipse, Netbeans, JetBrains), Editor de Texto, Visual Code, Git, Github
+    - [Sistema de Controle de Versão](https://pt.wikipedia.org/wiki/Sistema_de_controle_de_vers%C3%B5es), CVS, SVN, Markdown
   - B: Nada
   
 ## Terça 28/Agosto/2018
