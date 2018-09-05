@@ -14,6 +14,9 @@ Curso de Programação Agosto de 2018
   
 ## Terça 28/Agosto/2018
 
-  - Y: Linguagens de Programação, Front-end, Back-end, frameworks back-end, Visual Code, Git, Github
+  - Y: 
   - T:
+    - Stack https://stackshare.io/stacks
+    - CRUD
+    - API 
   - B: Nada
